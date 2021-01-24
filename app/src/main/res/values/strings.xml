@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Message_Master_Controller</string>
+    <string name="title_text">Controlled numbers</string>
+    <string name="button_name1">발송</string>
+    <string name="button_name2">초기화</string>
+    <string name="pref_key">Message_Master</string>
+    <string name="key_master_number">key_master_number</string>
+    <string name="no_registered_number">"관리자 기기의 전화번호를 등록해주세요(-없이)"</string>
+</resources>
